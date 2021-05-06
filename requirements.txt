@@ -1,0 +1,6 @@
+numpy
+cython
+pulse2percept==0.7
+scipy
+pandas
+matplotlib
