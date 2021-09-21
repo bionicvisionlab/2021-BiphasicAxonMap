@@ -1,4 +1,4 @@
-This model is now bundled as a part of pulse2percept (BiphasicAxonMapModel), and that version should be used instead of this repository
+**This model is now bundled as a part of pulse2percept (BiphasicAxonMapModel), and that version should be used instead of this repository**
 
 
 # Phosphene model for epiretinal prostheses
